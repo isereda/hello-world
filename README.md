@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi guys,
+
+Ira here, a Technical Communicator exploring GitHub.
